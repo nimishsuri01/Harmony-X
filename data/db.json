@@ -1,0 +1,130 @@
+{
+  "dialogues": [
+    {
+      "id": "room-1",
+      "title": "Room 06: South Asia Cross-Border Bridge",
+      "description": "A constructive dialog room for bridging divides and exploring cultural commonalities.",
+      "category": "Cross-Border Dialogue",
+      "messages": [
+        {
+          "id": "m1",
+          "user": "Nimish (Sialkot Sector)",
+          "text": "I am tired of the constant news cycle stirring up anger between our sides. In our border villages, we listen to the exact same wedding songs and speak the same dialects.",
+          "timestamp": "2026-06-29T10:00:00Z",
+          "community": "Community A"
+        },
+        {
+          "id": "m2",
+          "user": "Priya (Jammu Division)",
+          "text": "I agree completely. In my house, my grandparents still talk about their childhood friend in Sialkot with so much love. The politics divides us, but our human bonds are identical.",
+          "timestamp": "2026-06-29T10:05:00Z",
+          "community": "Community B"
+        },
+        {
+          "id": "m3",
+          "user": "HarmonyBot",
+          "text": "Welcome Nimish and Priya! Highlighting joint artistic heritage, music, and shared elder histories is a powerful de-escalation tool. I will translate and guide your dialogue constructively.",
+          "timestamp": "2026-06-29T10:06:00Z",
+          "community": "Neutral Moderator",
+          "isBot": true
+        }
+      ]
+    },
+    {
+      "id": "room-2",
+      "title": "Pluralism & Tolerance Youth Network",
+      "description": "Countering internet hate speech and building networks of trust among student communities.",
+      "category": "Inter-community Dialogue",
+      "messages": [
+        {
+          "id": "m4",
+          "user": "Arif (Srinagar)",
+          "text": "Sometimes, online social circles are so polarized. If you speak for joint dialogue or human dignity, both sides brand you a traitor. It is very isolating.",
+          "timestamp": "2026-06-29T09:30:00Z",
+          "community": "Community A"
+        },
+        {
+          "id": "m5",
+          "user": "Rahul (Delhi)",
+          "text": "I feel that too. Online mobs thrive on hate because anger spreads faster than peace. That is why spaces like HarmonyX are important—they give us a platform to breathe and trust.",
+          "timestamp": "2026-06-29T09:35:00Z",
+          "community": "Community B"
+        }
+      ]
+    }
+  ],
+  "support": [
+    {
+      "id": "sup-1",
+      "type": "offer",
+      "title": "Free Virtual Language & Integration Mentorship",
+      "category": "Language Aid",
+      "location": "Lahore / Online",
+      "description": "Providing conversational language, exam preparation, and local cultural orientation for refugee students displaced by border conflicts. Fully free and open-access.",
+      "contact": "lahore-peace-mentor@harmonyx.org",
+      "timestamp": "2026-06-29T08:00:00Z"
+    },
+    {
+      "id": "sup-2",
+      "type": "request",
+      "title": "Legal Aid & Status Verification Assistance Needed",
+      "category": "Legal Support",
+      "location": "Chamb Area Border Camp",
+      "description": "A family of 5 displaced by seasonal ceasefire shelling needs legal support to coordinate cross-jurisdiction document verification to enroll children in school.",
+      "contact": "displaced-aid-chamb@harmonyx.org",
+      "timestamp": "2026-06-29T08:30:00Z"
+    },
+    {
+      "id": "sup-3",
+      "type": "offer",
+      "title": "Temporary Shelter & Living Essentials",
+      "category": "Shelter",
+      "location": "Jammu Resettlement Zone",
+      "description": "Our community center has 3 vacant rooms with cooking facilities, blankets, and hygiene kits. Available for any displaced families or refugees in need.",
+      "contact": "jammu-center@harmonyx.org",
+      "timestamp": "2026-06-28T17:00:00Z"
+    }
+  ],
+  "memories": [
+    {
+      "id": "mem-1",
+      "title": "The Locked Store of 1947",
+      "author": "Grandson of Gurdial Singh",
+      "location": "Amritsar / Lahore",
+      "text": "When my grandfather had to leave Lahore in 1947, his neighbor, Sheikh Rehman, kept my grandfather's dry-fruit shop keys. Sheikh Rehman ran the shop and sent the savings through informal channels for two years, then bought the shop fairly by transferring money back, ensuring our family had capital to survive in Amritsar. Honor and dignity rose above the chaos.",
+      "timestamp": "2026-06-29T07:15:00Z",
+      "tag": "Shared Heritage"
+    },
+    {
+      "id": "mem-2",
+      "title": "Joint Restoration of Baba Chamliyal Shrine",
+      "author": "Local Border Devotee",
+      "location": "Zero Line Border",
+      "text": "Every year, the Baba Chamliyal shrine at the border brings thousands of devotees from both sides. When the water pump broke during a massive heatwave, farmers from both sides synchronized repairs across the barbed-wire fence, passing pipes and tools to ensure devotees stayed hydrated. Faith and shared love have no border.",
+      "timestamp": "2026-06-29T07:45:00Z",
+      "tag": "Reconciliation"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alt-1",
+      "category": "Online Hate Speech Spike",
+      "region": "Western Border Sector",
+      "description": "Coordinated coordination of bots spreading high-pitched communal audio recordings on chat apps inciting local village boycotts over agricultural workers.",
+      "riskLevel": "High",
+      "source": "Civil Society Sentinel Group",
+      "aiActionPlan": "Immediate recommendation: Broadcast local radio briefings emphasizing peaceful harvesting cooperation, hold open joint-communal elders council in Sialkot/Jammu border sector to dismiss the audio as doctored propaganda.",
+      "timestamp": "2026-06-28T14:30:00Z"
+    },
+    {
+      "id": "alt-2",
+      "category": "Water/Resource Dispute",
+      "region": "Chenab River Basin Downstream",
+      "description": "Seasonal low-flow tensions rising between downstream tail-end farmers and upstream canal locking groups during summer heat peak.",
+      "riskLevel": "Medium",
+      "source": "Chenab Peace Council",
+      "aiActionPlan": "Deploy third-party transparent volumetric sensors, host collaborative canal schedule sharing, and initiate mediation talks on joint maintenance rather than unilateral diversion.",
+      "timestamp": "2026-06-27T11:20:00Z"
+    }
+  ]
+}

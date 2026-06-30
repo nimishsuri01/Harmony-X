@@ -1,0 +1,6 @@
+{
+  "name": "HarmonyX",
+  "description": "An interactive full-stack peacebuilding platform for countering hate speech, verifying misinformation, supporting displaced refugees, archiving historical memories, and coordinating early warnings.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
